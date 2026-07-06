@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+GitPython
+PyGithub
+jira==3.8.0
+anthropic
+requests
+sqlalchemy
+psycopg2-binary
